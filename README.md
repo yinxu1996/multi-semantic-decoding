@@ -1,1 +1,1 @@
-# multi-semantic-decoding
+# visual decoding and reconstruction
